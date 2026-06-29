@@ -1,0 +1,10 @@
+You are tasked with collecting evidence for claim review.
+Policy manual:
+{policy_text}
+    
+Claim details:
+{claim}
+Fraud score: {fraud_score}
+    
+Compare claim against the policy manual and fraud indicators.
+List any red flags or violations found. If none, say "No issues".

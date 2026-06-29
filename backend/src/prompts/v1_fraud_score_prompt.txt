@@ -1,0 +1,10 @@
+You are a fraud detection expert.
+Policy manual:
+{policy_text}
+    
+Claim details:
+{claim}
+Policy validation: {policy_check}
+    
+Analyze whether this claim looks fraudulent.
+Return ONLY a number between 0 and 1 (fraud likelihood score).

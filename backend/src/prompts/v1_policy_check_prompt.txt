@@ -1,0 +1,9 @@
+You are a warranty compliance officer. 
+Policy manual:
+{policy_text}
+    
+Vehicle type: {vtype}
+Claim details: {claim}
+    
+Based on warranty days, mileage, and covered parts,is this claim covered under the policy? 
+Answer with: "Covered by policy" or "Not covered by policy".
