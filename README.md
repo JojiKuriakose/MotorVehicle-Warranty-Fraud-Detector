@@ -18,7 +18,7 @@ The warranty fraud detector project is built as a modular system that evaluates 
    `processClaim.py`: performs claim processing and transforms raw claim data.
 - `src/utils/`\
     `llm_util.py`: integrates LLM/prompt logic for reasoning.\
-    `policy_util.py`: contains policy validation helpers.
+    `policy_util.py`: contains policy validation helpers loaded from Azure Blob Storage
 - `prompts/`: text templates for AI-guided claim evaluation and node behavior.
 
 <img width="20" height="20" alt="folder" src="https://github.com/user-attachments/assets/2515f6c4-45ac-478b-876c-328763ed74bf" /> Frontend
