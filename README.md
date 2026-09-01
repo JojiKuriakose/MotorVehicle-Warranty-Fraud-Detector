@@ -36,3 +36,20 @@ The warranty fraud detector project is built as a modular system that evaluates 
 
 **Purpose**\
 The solution helps detect suspicious warranty claims automatically, reduce fraudulent approvals, and support faster, more consistent investigation decisions.
+### Tech Stack
+- **Frontend**: Streamlit
+- **Backend**: Python, LangGraph, FastAPI, AzureOpenAI
+- **Monitoring & Observability**: LangSmith
+- **Deployment**: Docker, Azure Container Apps
+### Application Architecture
+<img width="1536" height="1024" alt="architecture-1" src="https://github.com/user-attachments/assets/484d5692-4297-4dc4-ad94-e1fc77020e61" />
+
+
+### Application Demo
+<img width="1907" height="966" alt="Screenshot 2026-06-28 192206" src="https://github.com/user-attachments/assets/2ea429a3-4d9d-4a31-a0bc-931e642f1010" /> 
+<img width="1892" height="907" alt="Screenshot 2026-06-28 192406" src="https://github.com/user-attachments/assets/ccea1863-dafc-4097-93a1-a4f327560921" />
+
+
+
+
+
