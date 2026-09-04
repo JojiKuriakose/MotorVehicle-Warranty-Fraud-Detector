@@ -49,6 +49,14 @@ The solution helps detect suspicious warranty claims automatically, reduce fraud
 <img width="1907" height="966" alt="Screenshot 2026-06-28 192206" src="https://github.com/user-attachments/assets/2ea429a3-4d9d-4a31-a0bc-931e642f1010" /> 
 <img width="1892" height="907" alt="Screenshot 2026-06-28 192406" src="https://github.com/user-attachments/assets/ccea1863-dafc-4097-93a1-a4f327560921" />
 
+### Metrics
+| Metric | Score |
+| ------------- | ------------- |
+| Trace Count | 20 |
+| Latency(p99) | 29.22s |
+| Total Tokens | 23954 |
+| Cost | $0.2 |
+
 
 
 
